@@ -1,0 +1,16 @@
+*{
+			margin: 0%;
+		}
+		.navbar{
+			background-color: purple;
+			color: white;
+			padding: 1%;
+			text-align: center;
+		}
+		.navbar a{
+			color: white;
+			margin-right: 7%;
+			font-size: 20px;
+			text-decoration: none;
+
+		}
